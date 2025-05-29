@@ -2,6 +2,7 @@
   "name": "NumJump",
   "version": "1.0.0",
   "description": "A simple extension that prefixes numbers based on a tab's position",
+  "author": "Adam Ben-Aamr",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
